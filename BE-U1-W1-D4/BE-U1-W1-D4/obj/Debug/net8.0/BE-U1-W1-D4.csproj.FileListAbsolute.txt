@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\BE-U1-W1-D4\BE-U1-W1-D4\obj\Debug\net8.0\BE-U1-W1-D4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\BE-U1-W1-D4\BE-U1-W1-D4\obj\Debug\net8.0\BE-U1-W1-D4.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\BE-U1-W1-D4\BE-U1-W1-D4\obj\Debug\net8.0\BE-U1-W1-D4.AssemblyInfo.cs
+C:\Users\User\Desktop\BE-U1-W1-D4\BE-U1-W1-D4\obj\Debug\net8.0\BE-U1-W1-D4.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\BE-U1-W1-D4\BE-U1-W1-D4\obj\Debug\net8.0\BE-U1-W1-D4.sourcelink.json
+C:\Users\User\Desktop\BE-U1-W1-D4\BE-U1-W1-D4\bin\Debug\net8.0\BE-U1-W1-D4.exe
+C:\Users\User\Desktop\BE-U1-W1-D4\BE-U1-W1-D4\bin\Debug\net8.0\BE-U1-W1-D4.deps.json
+C:\Users\User\Desktop\BE-U1-W1-D4\BE-U1-W1-D4\bin\Debug\net8.0\BE-U1-W1-D4.runtimeconfig.json
+C:\Users\User\Desktop\BE-U1-W1-D4\BE-U1-W1-D4\bin\Debug\net8.0\BE-U1-W1-D4.dll
+C:\Users\User\Desktop\BE-U1-W1-D4\BE-U1-W1-D4\bin\Debug\net8.0\BE-U1-W1-D4.pdb
+C:\Users\User\Desktop\BE-U1-W1-D4\BE-U1-W1-D4\obj\Debug\net8.0\BE-U1-W1-D4.dll
+C:\Users\User\Desktop\BE-U1-W1-D4\BE-U1-W1-D4\obj\Debug\net8.0\refint\BE-U1-W1-D4.dll
+C:\Users\User\Desktop\BE-U1-W1-D4\BE-U1-W1-D4\obj\Debug\net8.0\BE-U1-W1-D4.pdb
+C:\Users\User\Desktop\BE-U1-W1-D4\BE-U1-W1-D4\obj\Debug\net8.0\BE-U1-W1-D4.genruntimeconfig.cache
+C:\Users\User\Desktop\BE-U1-W1-D4\BE-U1-W1-D4\obj\Debug\net8.0\ref\BE-U1-W1-D4.dll
